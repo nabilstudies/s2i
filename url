@@ -1,0 +1,1 @@
+https://api.ocp4.example.com:6443/apis/build.openshift.io/v1/namespaces/builds-s2i/buildconfigs/app1/webhooks/<secret>/github
